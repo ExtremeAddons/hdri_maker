@@ -1,7 +1,8 @@
 {
 	"manual": {
 		"manual_urls": {
-			"INSTALL_LIBRARIES": "https://docs.extreme-addons.com/manual/extreme-pbr-installation/#1-7-installation-step-1",
+			"DOCS": "https://docs.extreme-addons.com/manual/hdri-maker/",
+			"INSTALL_LIBRARIES": "https://docs.extreme-addons.com/manual/installation-2/#download-files",
 		}
 	}
 }
