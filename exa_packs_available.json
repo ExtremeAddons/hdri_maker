@@ -1,0 +1,11 @@
+{
+  "default_library": {
+    "0": {
+      "name": "HDRiMkr_1k_Vol1",
+      "files": 100,
+      "size": 1000000000,
+      "date": 1670418511,
+      "description": "This is the description"
+    }
+  }
+}
