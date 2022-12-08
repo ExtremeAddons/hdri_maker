@@ -3,7 +3,16 @@
 		"manual_urls": {
 			"DOCS": "https://hdri-maker.readthedocs.io/en/latest/index.html",
 			"HOW_TO_INSTALL": "https://hdri-maker.readthedocs.io/en/latest/how_to_install.html",
-			"UI_LIBRARY_MANAGER": "https://hdri-maker.readthedocs.io/en/latest/ui_library_manager.html"
+			"UI_LIBRARY_MANAGER": "https://hdri-maker.readthedocs.io/en/latest/ui_library_manager.html",
+			"COMPLETE_GROUP_BACKGROUND": "",
+			"DIFFUSE_GROUP_BACKGROUND": "",
+			"LIGHT_GROUP_BACKGROUND": "",
+			"DOME_PROJECTION_ADD_REMOVE": "",
+			"DOME_PROJECTION_PROPERTIES": "",
+			"DOME_PROJECTION_HOOKS": ""
+
+
+
 		}
 	}
 }
