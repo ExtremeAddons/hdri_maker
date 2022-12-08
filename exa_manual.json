@@ -1,10 +1,9 @@
 {
 	"manual": {
 		"manual_urls": {
-			"DOCS": "https://docs.extreme-addons.com/manual/hdri-maker/",
-			"INSTALL_LIBRARIES": "https://docs.extreme-addons.com/manual/installation-2/#download-files",
-			"EXAPACK_INSTALLED": "",
-
+			"DOCS": "https://hdri-maker.readthedocs.io/en/latest/index.html",
+			"HOW_TO_INSTALL": "https://hdri-maker.readthedocs.io/en/latest/how_to_install.html",
+			"UI_LIBRARY_MANAGER": "https://hdri-maker.readthedocs.io/en/latest/ui_library_manager.html"
 		}
 	}
 }
