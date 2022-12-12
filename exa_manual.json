@@ -1,28 +1,94 @@
 {
-	"manual": {
-		"manual_urls": {
-			"DOCS": "https://hdri-maker.readthedocs.io/en/latest/index.html",
-			"HOW_TO_INSTALL": "https://hdri-maker.readthedocs.io/en/latest/how_to_install.html",
-			"UI_LIBRARY_MANAGER": "https://hdri-maker.readthedocs.io/en/latest/ui_library_manager.html",
-			"COMPLETE_GROUP_BACKGROUND": "",
-			"DIFFUSE_GROUP_BACKGROUND": "",
-			"LIGHT_GROUP_BACKGROUND": "",
-			"DOME_PROJECTION_MENU": "",
-			"DOME_PROJECTION_ADD_REMOVE": "",
-			"DOME_PROJECTION_PROPERTIES": "",
-			"DOME_PROJECTION_HOOKS": "",
-			"DOME_PROJECTION_WRAP": "",
-			"DOME_PROJECTION_GROUND_MATERIAL": "",
-			"DOME_PROJECTION_MIXER_NODE": "",
-			"DOME_PROJECTION_VECTORS_NODE": "",
-			"SHADOW_CATCHER_MENU": "",
-			"SHADOW_CATCHER_NODE": "",
-			"SHADOW_CATCHER_NORMAL_NODE": "",
-			"SUN_STUDIO_MENU": "",
-			"LIGHT_STUDIO_MENU": "",
-			"ADDON_UPDATES": "",
-			"PREFERENCES_MENU": "",
-			"REMOVE_VOLUME": ""
+	"info": "The addon connects to this json, and shows an additional button if there is more than one key in the dictionary, the button opens a popup with buttons as many as the keys and if there are urls in the keys",
+	"manual_version": 2,
+	"manual_urls": {
+		"ADDON_UPDATES": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"COMPLETE_GROUP_BACKGROUND": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"DIFFUSE_GROUP_BACKGROUND": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"DOCS": {
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/index.html" ,
+			"tutorial": ""
+		} ,
+		"DOME_PROJECTION_ADD_REMOVE": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"DOME_PROJECTION_GROUND_MATERIAL": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"DOME_PROJECTION_HOOKS": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"DOME_PROJECTION_MENU": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"DOME_PROJECTION_MIXER_NODE": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"DOME_PROJECTION_PROPERTIES": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"DOME_PROJECTION_VECTORS_NODE": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"DOME_PROJECTION_WRAP": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"HOW_TO_INSTALL": {
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/how_to_install.html" ,
+			"tutorial": ""
+		} ,
+		"LIGHT_GROUP_BACKGROUND": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"LIGHT_STUDIO_MENU": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"PREFERENCES_MENU": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"REMOVE_VOLUME": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"SHADOW_CATCHER_MENU": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"SHADOW_CATCHER_NODE": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"SHADOW_CATCHER_NORMAL_NODE": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"SUN_STUDIO_MENU": {
+			"documentation": "" ,
+			"tutorial": ""
+		} ,
+		"UI_LIBRARY_MANAGER": {
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/ui_library_manager.html" ,
+			"tutorial": ""
 		}
 	}
 }
