@@ -1,10 +1,10 @@
 {
   "info": {
-    "sponsor_purpose": "Do you want to be in the list too?, contact me!",
-    "mail_to": "extremeaddons@gmail.com",
-    "mail_subject": "I'm interested in a sponsor in the HDRi Maker section",
+    "sponsor_purpose": "Do you want to be in the list too?, contact me!" ,
+    "mail_to": "extremeaddons@gmail.com" ,
+    "mail_subject": "I'm interested in a sponsor in the HDRi Maker section" ,
     "message": "Hello Andrew, im interested in a sponsor in the HDRi Maker section, my product is: "
-  },
+  } ,
   "Products": {
     "Cloth Simulation": {
       "Simply Cloth": "https://blendermarket.com/products/simply-cloth/?ref=292" ,
@@ -14,11 +14,10 @@
       "Flip Fluid": "https://gumroad.com/a/404345971"
     } ,
     "Materials": {
-      "Extreme PBR": "https://blendermarket.com/products/extreme-pbr-addon-for-blender-279-2",
+      "Extreme PBR": "https://blendermarket.com/products/extreme-pbr-addon-for-blender-279-2" ,
       "Cyber Holograms": "https://blendermarket.com/products/cyber-holograms-blender-materials"
     } ,
-    "Mesh Tools":
-    {
+    "Mesh Tools": {
       "Bmesh Clean": "https://blendermarket.com/products/bmesh-clean-add-on"
     } ,
     "Tree And Plant": {
