@@ -54,6 +54,10 @@
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/how_to_install.html" ,
 			"tutorials": ""
 		} ,
+		"INSTALL_LIBRARIES": {
+			"documentation": "" ,
+			"tutorials": ""
+		} ,
 		"LIBRARY_UPDATE": {
 			"documentation": "" ,
 			"tutorials": ""
