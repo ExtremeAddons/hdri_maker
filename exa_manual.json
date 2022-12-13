@@ -94,6 +94,11 @@
 		{
 			"documentation": "" ,
 			"tutorials": ""
-		}
+		},
+		"VOLUME_NODE_GROUP":
+		{
+			"documentation": "" ,
+			"tutorials": ""
+		},
 	}
 }
