@@ -4,96 +4,96 @@
 	"manual_urls": {
 		"ADDON_UPDATES": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"COMPLETE_GROUP_BACKGROUND": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"DIFFUSE_GROUP_BACKGROUND": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"DOCS": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/index.html" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"DOME_PROJECTION_ADD_REMOVE": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"DOME_PROJECTION_GROUND_MATERIAL": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"DOME_PROJECTION_HOOKS": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"DOME_PROJECTION_MENU": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"DOME_PROJECTION_MIXER_NODE": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"DOME_PROJECTION_PROPERTIES": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"DOME_PROJECTION_VECTORS_NODE": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"DOME_PROJECTION_WRAP": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"HOW_TO_INSTALL": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/how_to_install.html" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"LIGHT_GROUP_BACKGROUND": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"LIGHT_STUDIO_MENU": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"PREFERENCES_MENU": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"REMOVE_VOLUME": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"SHADOW_CATCHER_MENU": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"SHADOW_CATCHER_NODE": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"SHADOW_CATCHER_NORMAL_NODE": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"SUN_STUDIO_MENU": {
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"UI_LIBRARY_MANAGER": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/ui_library_manager.html" ,
-			"tutorial": ""
+			"tutorials": ""
 		} ,
 		"VECTOR_GROUP_BACKGROUND":
 		{
 			"documentation": "" ,
-			"tutorial": ""
+			"tutorials": ""
 		}
 	}
 }
