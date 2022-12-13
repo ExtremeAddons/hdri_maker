@@ -1,5 +1,13 @@
 {
-  {"Addons": { "Materials": { "Extreme PBR": "https://blendermarket.com/products/extreme-pbr-addon-for-blender-279-2"} , "Cloth Simulation": {"Simply Cloth": "https://blendermarket.com/products/cloth-simulation"}
+  "addons": {
+    "materials": {
+      "Extreme PBR": "https://blendermarket.com/products/extreme-pbr-addon-for-blender-279-2"
+    },
+    "Cloth Simulation": {
+      "Simply Cloth": "https://blendermarket.com/products/cloth-simulation"
+    },
+    "Fluid Simulation": {
+      "Flip Fluid": "https://gumroad.com/a/404345971"
+    }
   }
-}
 }
