@@ -1,10 +1,8 @@
 {
-  "Materials" : {
-    "Extreme PBR": "https://blendermarket.com/products/extreme-pbr-addon-for-blender-279-2",
-  },
-
-  "Cloth Simulation" : {
-    "Simply Cloth": "https://blendermarket.com/products/cloth-simulation",
-  },
-
+  "Materials": {
+    "Extreme PBR": "https://blendermarket.com/products/extreme-pbr-addon-for-blender-279-2"
+  } ,
+  "Cloth Simulation": {
+    "Simply Cloth": "https://blendermarket.com/products/cloth-simulation"
+  }
 }
