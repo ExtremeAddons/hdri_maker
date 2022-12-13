@@ -89,6 +89,11 @@
 		"UI_LIBRARY_MANAGER": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/ui_library_manager.html" ,
 			"tutorial": ""
+		} ,
+		"VECTOR_GROUP_BACKGROUND":
+		{
+			"documentation": "" ,
+			"tutorial": ""
 		}
 	}
 }
