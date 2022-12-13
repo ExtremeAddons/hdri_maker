@@ -2,12 +2,24 @@
   "addons": {
     "materials": {
       "Extreme PBR": "https://blendermarket.com/products/extreme-pbr-addon-for-blender-279-2"
-    },
+    } ,
     "Cloth Simulation": {
-      "Simply Cloth": "https://blendermarket.com/products/cloth-simulation"
-    },
+      "Simply Cloth": "https://blendermarket.com/products/simply-cloth/?ref\u003d292" ,
+      "Simply Wrap Pro": "https://blendermarket.com/products/simply-wrap-pro/?ref\u003d292"
+    } ,
     "Fluid Simulation": {
       "Flip Fluid": "https://gumroad.com/a/404345971"
+    } ,
+    "Tree And Plant": {
+      "Vegetation": "https://blendermarket.com/products/vegetation-tree-addon-animation/?ref\u003d292" ,
+      "Gardener": "https://blendermarket.com/products/gardener/?ref\u003d292" ,
+      "GrassBlade": "https://blendermarket.com/products/grassblade/?ref\u003d292"
+    } ,
+    "Vehicles": {
+      "Transportation": "https://blendermarket.com/products/transportation/?ref\u003d292"
+    } ,
+    "Vfx": {
+      "RBD Lab": "https://blendermarket.com/products/rbdlab/?ref\u003d292"
     }
   }
 }
