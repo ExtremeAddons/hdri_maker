@@ -1,7 +1,9 @@
 {
   "info": {
-    "mail": "extremeaddons@gmail.com",
-    "sponsor_purpose": "Do you want to be in the list too?, contact me!"
+    "sponsor_purpose": "Do you want to be in the list too?, contact me!",
+    "mail_to": "extremeaddons@gmail.com",
+    "mail_subject": "I'm interested in a sponsor in the HDRi Maker section",
+    "message": "Hello Andrew, im interested in a sponsor in the HDRi Maker section, my product is: ",
   },
   "Products": {
     "Cloth Simulation": {
