@@ -57,8 +57,7 @@
 			"tutorials": ""
 		} ,
 		"HOW_TO_REPORT_A_BUG": {
-			"documentation": "https://hdri-maker.readthedocs.io/en/latest/bugreport_info.html" ,
-			"tutorials": ""
+			"docs": "https://hdri-maker.readthedocs.io/en/latest/bugreport_info.html"
 		} ,
 		"INSTALL_LIBRARIES": {
 			"documentation": "" ,
