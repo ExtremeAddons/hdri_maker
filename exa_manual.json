@@ -74,10 +74,6 @@
 			"documentation": "" ,
 			"tutorials": ""
 		} ,
-		"ORDERPAGES": {
-			"BlenderMarket": "https://blendermarket.com/account/orders" ,
-			"Gumroad": "https://blendermarket.com/account/orders"
-		} ,
 		"PREFERENCES_MENU": {
 			"documentation": "" ,
 			"tutorials": ""
