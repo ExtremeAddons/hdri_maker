@@ -17,8 +17,7 @@
 			"tutorials": ""
 		} ,
 		"DOCS": {
-			"documentation": "https://hdri-maker.readthedocs.io/en/latest/index.html" ,
-			"tutorials": ""
+			"Docs": "https://hdri-maker.readthedocs.io/en/latest/index.html"
 		} ,
 		"DOME_PROJECTION_ADD_REMOVE": {
 			"documentation": "" ,
@@ -113,7 +112,7 @@
 			"documentation": "" ,
 			"tutorials": ""
 		},
-		"YOUTUBE_TUTORIALS": {
+		"TUTORIAL_PLAYLIST": {
 			"Install": "https://www.youtube.com/watch?v=8m7AIPm1z0w&t" ,
 			"Test 2": "https://www.youtube.com/watch?v=8m7AIPm1z0w&t",
 			"Test 3": "https://www.youtube.com/watch?v=8m7AIPm1z0w&t",
