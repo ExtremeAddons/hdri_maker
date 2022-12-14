@@ -112,6 +112,14 @@
 		{
 			"documentation": "" ,
 			"tutorials": ""
+		},
+		"YOUTUBE_TUTORIALS": {
+			"Install": "https://www.youtube.com/watch?v=8m7AIPm1z0w&t" ,
+			"Test 2": "https://www.youtube.com/watch?v=8m7AIPm1z0w&t",
+			"Test 3": "https://www.youtube.com/watch?v=8m7AIPm1z0w&t",
+			"Test 4": "https://www.youtube.com/watch?v=8m7AIPm1z0w&t",
+			"Test 5": "https://www.youtube.com/watch?v=8m7AIPm1z0w&t",
+			"Test 6": "https://www.youtube.com/watch?v=8m7AIPm1z0w&t"
 		}
 	}
 }
