@@ -56,6 +56,10 @@
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/how_to_install.html" ,
 			"tutorials": ""
 		} ,
+		"HOW_TO_REPORT_A_BUG": {
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/bugreport_info.html" ,
+			"tutorials": ""
+		} ,
 		"INSTALL_LIBRARIES": {
 			"documentation": "" ,
 			"tutorials": ""
