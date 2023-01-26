@@ -75,8 +75,7 @@
 			"tutorials": ""
 		} ,
 		"MAIN_PANEL": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/library_manager_panel.html"
 		} ,
 		"PREFERENCES_MENU": {
 			"documentation": "" ,
