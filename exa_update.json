@@ -11,11 +11,11 @@
   },
   "updates": {
     "3.0.100": {
-      "date": "11-11-2022",
+      "date": "5-02-2023",
       "name": "HDRi Maker",
       "edition": "Studio",
       "url": false,
-      "urgency": false,
+      "urgency": true,
       "lock_operators": [
         ""
       ],
@@ -25,23 +25,23 @@
           "description": "The new interface has been completely redesigned to be simpler and more intuitive, we have inserted custom menus for each functionality of the addon, now the menus are sortable"
         },
         "2": {
-          "title": "Addon Riscritto quasi da zero",
+          "title": "Addon rewritten almost from new",
           "description": "All the code has been reviewed and structurally improved"
         },
         "3": {
-          "title": "Nuova struttura del pannello",
+          "title": "New panel structure",
           "description": "The panel has been completely revised and improved, now it is divided into sections that can be moved open and close at will"
         },
         "4": {
-          "title": "Sistema di tag aggiunto",
+          "title": "Tag system added",
           "description": "Now all backgrounds have tags that allow you to filter the search"
         },
         "5": {
-          "title": "Nuovo sistema Volumetric",
+          "title": "New Volumetric system",
           "description": "Now the Volumetric is managed by a group node system, this simplifies the addition in the future of new volumetric nodes, this for the simulation of fog and dust"
         },
         "6": {
-          "title": "Gestione Diffuse e Light aggiunta",
+          "title": "Diffuse and Light management added",
           "description": "You can now add a solid background with HDR lighting, for example, you can add a completely Black background, using the lighting of an HDRi"
         },
         "7": {
@@ -53,91 +53,91 @@
           "description": "A new panel dedicated to lighting functions. Here you can manage the lights or the sun, and the lighting settings"
         },
         "9": {
-          "title": "Possibilità di animare tutte (O Quasi tutti gli slider)",
+          "title": "Ability to animate all (or almost all the sliders)",
           "description": "Previously HDRi Maker did not allow you to animate the sliders, this because the properties did a callback to the main property, now this problem has been solved, because I adopted the same drawing technique of the panel, thanks to the experience gained with Extreme PBR, All sliders (Or Almost) can be animated with keyframes"
         },
         "10": {
-          "title": "Gestione link alla libreria Migliorata",
+          "title": "Library link management improved",
           "description": "The library management system is simpler, the paths to the libraries are opened via button, this to avoid the problem of relative paths, same system adopted in Extreme PBR"
         },
         "11": {
-          "title": "Aggiunta di espansioni",
+          "title": "Additions of extensions",
           "description": "From this version, it is possible to add extensions, 1 extension is already provided with the adon, this extension, contains more than 100 new backgrounds from HdrMaps.com, the owner of this site has approved with pleasure the use of his backgrounds, for this reason, it was decided to add this extension"
         },
         "12": {
-          "title": "Importa al volo",
+          "title": "Import on the fly",
           "description": "By pressing the SHIFT key and the ADD button, you can import a background on the fly, this allows you to use your Background, without having to add it to the library"
         },
         "13": {
-          "title": "Dome (Classico) Migliorato",
+          "title": "Dome (Classic) Improved",
           "description": "I recreated the dome with care, paying attention to its topology. This to be able to divide the dome with a modifier, in order to improve the experience with the Wrap system already present in the past"
         },
         "14": {
-          "title": "Sistema di Wrap Migliorato",
+          "title": "Wrap system improved",
           "description": "Now the Wrap system, has the possibility to decide the direction of the Wrap on the ground, (Negative or Positive), in addition now the Wrap objects are listed in the dedicated panel"
         },
         "15": {
-          "title": "Sistema Ground Material Migliorato",
+          "title": "Ground Material system improved",
           "description": "Now the addition of the Ground material has been improved, every object to which the Ground material is applied, is now listed in the dedicated panel, in addition it is possible to choose the function of this material in 2 options, the first assumes the ground projection, the second assumes the Top dome projection, this allows you to project on the object the same projection of the dome in the upper part"
         },
         "16": {
-          "title": "Materiale Dome Migliorato",
+          "title": "Dome Material Improved",
           "description": "Now the dome material and all its nodes, have been improved and revised, this now allows greater control on the projection of the dome, allowing to adjust and stretch the upper or lower part (Ground) of the dome"
         },
         "17": {
-          "title": "Dome Cube Aggiunto",
+          "title": "Dome Cube Added",
           "description": "A new dome in the shape of a cube has been added, the projection now also takes place on a cube"
         },
         "18": {
-          "title": "Dome Cylinder Aggiunto",
+          "title": "Dome Cylinder Added",
           "description": "A new dome in the shape of a cylinder has been added, the projection now also takes place on a cylinder"
         },
         "19": {
-          "title": "Due varianti al classico Dome Aggiunte",
+          "title": "Two variants to the classic Dome Added",
           "description": "Another 2 versions of the classic dome have been added, these 2 versions are similar, but the curvature that is between the ground part and the top part changes"
         },
         "20": {
-          "title": "Dome Hooks Aggiunto",
+          "title": "Dome Hooks Added",
           "description": "The new Hooks system allows you to modify the shape of the dome, to modify the shape of the dome, and adapt it to the projected image, for example you can recreate the angle of a wall present in the image (This only works on dome Cube and dome Cylinder at the moment)"
         },
         "21": {
-          "title": "Reflection Plane Sul dome",
+          "title": "Reflection Plane On the dome",
           "description": "When you add a dome, now a reflection plane is added on the ground, in order to be able to add realistic reflections on the ground in Eevee mode"
         },
         "22": {
-          "title": "Dome Con Bump Map",
+          "title": "Dome With Bump Map",
           "description": "Now on the ground of the dome it is possible to add a Bump Map effect, this is simulated by the same image projected on the dome, in order to be able to create a roughness effect on the ground"
         },
         "23": {
-          "title": "Ombre sul Ground",
+          "title": "Shadows on the Ground",
           "description": "Now the area where the dome receives shadows has been improved and faded, you can now decide how far the ground receives shadows (In the previous version this detachment was almost sharp, and created a color change problem between the ground and the rest of the dome)"
         },
         "24": {
-          "title": "Riflessi sul Ground",
+          "title": "Reflections on the Ground",
           "description": "As mentioned earlier, now it is possible to add reflections on the ground, metallic and roughness effect"
         },
         "25": {
-          "title": "Sincronizzazione Sun, Background, Dome",
+          "title": "Sun, Background, Dome Synchronization",
           "description": "Now you can choose whether to synchronize the sun, the dome with the background. This thanks to the addition of drivers if needed"
         },
         "26": {
-          "title": "Effetto Blur background migliorato",
+          "title": "Improved Blur background effect",
           "description": "The Blur effect of the background has been improved, in the previous version there were graphical errors in some points of the background, now this has been solved"
         },
         "27": {
-          "title": "Effetto Blur nel dome",
+          "title": "Blur effect in the dome",
           "description": "Now it is possible to add a Blur effect in the dome, The effect can be managed based on the distance of the observation point and be inverted (Similar to the effect of the camera depth of field)"
         },
         "28": {
-          "title": "Nuovo sistema di installazione",
+          "title": "New installation system",
           "description": "From this version the installation of the libraries takes place through packages with .exapack extension this format is recognized by the addon and is managed by the new installer"
         },
         "29": {
-          "title": "Controllo aggiornamenti migliorato",
+          "title": "Improved update control",
           "description": "Now the update check takes place on an online json file. Before the check system was obsolete and took place on the Blendermarket page"
         },
         "30": {
-          "title": "Nuova documentazione",
+          "title": "New documentation",
           "description": "Now the online documentation has been improved, now throughout the addon it is possible to access it through the buttons with the (?) icon, this opens directly the online documentation page to the corresponding page"
         }
       }
