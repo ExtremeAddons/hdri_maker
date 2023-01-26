@@ -5,11 +5,10 @@
 	"manual_version": 2,
 	"manual_urls": {
 		"ADDON_UPDATES": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/preferences.html#updates-tab"
 		} ,
 		"COMPLETE_GROUP_BACKGROUND": {
-			"documentation": "" ,
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/world_panel.html#" ,
 			"tutorials": ""
 		} ,
 		"DIFFUSE_GROUP_BACKGROUND": {
