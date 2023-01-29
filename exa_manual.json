@@ -49,6 +49,9 @@
 		"INSTALL_LIBRARIES": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/installation.html#install-the-library"
 		} ,
+		"TROUBLESHOOTING": {
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/troubleshooting.html"
+		},
 		"LIBRARY_UPDATE": {
 			"documentation": "" ,
 			"tutorials": ""
