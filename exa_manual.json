@@ -8,58 +8,43 @@
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/preferences.html#updates-tab"
 		} ,
 		"COMPLETE_GROUP_BACKGROUND": {
-			"documentation": "https://hdri-maker.readthedocs.io/en/latest/world_panel.html#" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/world_panel.html#"
 		} ,
 		"DIFFUSE_GROUP_BACKGROUND": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/world_panel.html#"
 		} ,
 		"DOCS": {
 			"Docs": "https://hdri-maker.readthedocs.io/en/latest/index.html"
 		} ,
 		"DOME_PROJECTION_ADD_REMOVE": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#choose-add-remove-dome"
 		} ,
 		"DOME_PROJECTION_GROUND_MATERIAL": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#ground-material"
 		} ,
 		"DOME_PROJECTION_HOOKS": {
-			"documentation": "" ,
-			"tutorials": ""
-		} ,
-		"DOME_PROJECTION_MENU": {
-			"documentation": "" ,
-			"tutorials": ""
-		} ,
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#dome-hooks"
+		},
 		"DOME_PROJECTION_MIXER_NODE": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#dome-color-node-group"
 		} ,
 		"DOME_PROJECTION_PROPERTIES": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#dome-properties"
 		} ,
 		"DOME_PROJECTION_VECTORS_NODE": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#dome-vectors-node-group"
 		} ,
 		"DOME_PROJECTION_WRAP": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#dome-wrap"
 		} ,
 		"HOW_TO_INSTALL": {
-			"documentation": "https://hdri-maker.readthedocs.io/en/latest/how_to_install.html" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/how_to_install.html"
 		} ,
 		"HOW_TO_REPORT_A_BUG": {
 			"docs": "https://hdri-maker.readthedocs.io/en/latest/bugreport_info.html"
 		} ,
 		"INSTALL_LIBRARIES": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/installation.html#install-the-library"
 		} ,
 		"LIBRARY_UPDATE": {
 			"documentation": "" ,
