@@ -37,6 +37,9 @@
 		"DOME_PROJECTION_WRAP": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#dome-wrap"
 		} ,
+		"FAQS": {
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/faqs.html"
+		} ,
 		"HOW_TO_INSTALL": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/how_to_install.html"
 		} ,
