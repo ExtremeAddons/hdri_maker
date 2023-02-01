@@ -53,59 +53,47 @@
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/troubleshooting.html"
 		},
 		"LIBRARY_UPDATE": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/preferences.html#library-updates"
 		} ,
 		"LIGHT_GROUP_BACKGROUND": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/world_panel.html#"
 		} ,
 		"LIGHT_STUDIO_MENU": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/lights_panel.html#lamps-menu"
 		} ,
 		"MAIN_PANEL": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/library_manager_panel.html"
 		} ,
 		"PREFERENCES_MENU": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/preferences.html"
 		} ,
 		"REMOVE_VOLUME": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/preferences.html#remove-volume"
 		} ,
 		"SAVE_MENU": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/save_panel.html"
 		} ,
 		"SAVE_LIBRARY_TOOLS": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/save_panel.html#library-tools"
 		} ,
 		"SAVE_DANGER_ZONE": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/save_panel.html#danger-zone"
 		} ,
 		"SHADOW_CATCHER_MENU": {
-			"documentation": "" ,
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/shadow_catcher.html",
 			"tutorials": ""
 		} ,
 		"SHADOW_CATCHER_NODE": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/shadow_catcher.html#shadow-catcher-node-group-inputs"
 		} ,
 		"SHADOW_CATCHER_NORMAL_NODE": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/shadow_catcher.html#shadow-catcher-normals"
 		} ,
 		"SUN_STUDIO_MENU": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/lights_panel.html#sun-menu"
 		} ,
 		"UI_LIBRARY_MANAGER": {
-			"documentation": "https://hdri-maker.readthedocs.io/en/latest/ui_library_manager.html" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/preferences.html#libraries-tab"
 		} ,
 		"VECTOR_GROUP_BACKGROUND":
 		{
