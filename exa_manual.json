@@ -97,17 +97,14 @@
 		} ,
 		"VECTOR_GROUP_BACKGROUND":
 		{
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/world_panel.html#vector-properties"
 		},
 		"VOLUMETRIC_MENU": {
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/volumetric_panel.html"
 		} ,
 		"VOLUME_NODE_GROUP":
 		{
-			"documentation": "" ,
-			"tutorials": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/volumetric_panel.html#volume-node-panel"
 		},
 		"TUTORIAL_PLAYLIST": {
 			"Online Tutorials": "https://hdri-maker.readthedocs.io/en/latest/video_tutorials.html"
