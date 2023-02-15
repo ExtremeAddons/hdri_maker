@@ -20,10 +20,11 @@
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#choose-add-remove-dome"
 		} ,
 		"DOME_PROJECTION_GROUND_MATERIAL": {
-			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#ground-material"
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#ground-material",
 		} ,
 		"DOME_PROJECTION_HOOKS": {
-			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#dome-hooks"
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#dome-hooks",
+			"video tutorials": "https://hdri-maker.readthedocs.io/en/latest/video_tutorials.html#custom-dome-projection"
 		},
 		"DOME_PROJECTION_MIXER_NODE": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#dome-color-node-group"
@@ -35,13 +36,15 @@
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#dome-vectors-node-group"
 		} ,
 		"DOME_PROJECTION_WRAP": {
-			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#dome-wrap"
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#dome-wrap",
+			"video tutorials": "https://hdri-maker.readthedocs.io/en/latest/video_tutorials.html#wrap-dome-ground"
 		} ,
 		"FAQS": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/faqs.html"
 		} ,
 		"HOW_TO_INSTALL": {
-			"documentation": "https://hdri-maker.readthedocs.io/en/latest/how_to_install.html"
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/how_to_install.html",
+			"video tutorials": "https://hdri-maker.readthedocs.io/en/latest/video_tutorials.html#first-installation"
 		} ,
 		"HOW_TO_REPORT_A_BUG": {
 			"docs": "https://hdri-maker.readthedocs.io/en/latest/bugreport_info.html"
@@ -59,7 +62,8 @@
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/world_panel.html#"
 		} ,
 		"LIGHT_STUDIO_MENU": {
-			"documentation": "https://hdri-maker.readthedocs.io/en/latest/lights_panel.html#lamps-menu"
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/lights_panel.html#lamps-menu",
+			"video tutorials": "https://hdri-maker.readthedocs.io/en/latest/video_tutorials.html#first-installation"
 		} ,
 		"MAIN_PANEL": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/library_manager_panel.html"
