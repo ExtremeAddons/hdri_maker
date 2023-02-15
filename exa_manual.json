@@ -20,8 +20,8 @@
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#choose-add-remove-dome"
 		} ,
 		"DOME_PROJECTION_GROUND_MATERIAL": {
-			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#ground-material",
-		} ,
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#ground-material"
+		},
 		"DOME_PROJECTION_HOOKS": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/dome_projection_panel.html#dome-hooks",
 			"video tutorials": "https://hdri-maker.readthedocs.io/en/latest/video_tutorials.html#custom-dome-projection"
