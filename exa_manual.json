@@ -104,7 +104,8 @@
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/world_panel.html#vector-properties"
 		},
 		"VOLUMETRIC_MENU": {
-			"documentation": "https://hdri-maker.readthedocs.io/en/latest/volumetric_panel.html"
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/volumetric_panel.html",
+			"video tutorials": "https://hdri-maker.readthedocs.io/en/latest/video_tutorials.html#fog-volumetric"
 		} ,
 		"VOLUME_NODE_GROUP":
 		{
