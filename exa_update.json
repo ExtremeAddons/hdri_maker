@@ -62,7 +62,7 @@
         },
         "11": {
           "title": "Additions of Expansion Packs",
-          "description": "From this version, it is possible to add Expansion, 1 Expansion is already provided with the addon, this Expansion, contains more than 100 new backgrounds from HdrMaps.com, the owner of this site has approved with pleasure the use of his backgrounds, for this reason, it was decided to add this Expansion"
+          "description": "From this version, it is possible to add Expansion, 1 Expansion is already provided with the addon, this Expansion, contains more than 100+ new backgrounds from HdrMaps.com, the owner of this site has approved with pleasure the use of his backgrounds, for this reason, it was decided to add this Expansion"
         },
         "12": {
           "title": "Import on the fly",
@@ -139,6 +139,10 @@
         "30": {
           "title": "New documentation",
           "description": "Now the online documentation has been improved, now throughout the addon it is possible to access it through the buttons with the (?) icon, this opens directly the online documentation page to the corresponding page"
+        },
+        "31": {
+          "title": "Migliorato l'import dei Background",
+          "description": "Ora è possibile 'Tentare' di importare anche World Backgrounds dai tuoi file.blend, l'addon tenta di recuperare il primo Background dal progetto.blend, questo non è garantito che funzioni sempre, ma nella maggior parte dei casi se appunto il tuo file.blend contiene un Background, questo verrà importato correttamente"
         }
       }
     }
