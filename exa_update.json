@@ -141,7 +141,7 @@
           "description": "Now the online documentation has been improved, now throughout the addon it is possible to access it through the buttons with the (?) icon, this opens directly the online documentation page to the corresponding page"
         },
         "31": {
-          "title": "Migliorato l'import dei Background",
+          "title": "Improved the import of Backgrounds",
           "description": "Now you can Try to import World Backgrounds from your .blend files, the addon tries to recover the first Background from the .blend project, this is not guaranteed to work every time, but in most cases if your .blend file contains a Background, it will be imported correctly"
         }
       }
