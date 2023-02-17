@@ -142,7 +142,7 @@
         },
         "31": {
           "title": "Migliorato l'import dei Background",
-          "description": "Ora è possibile 'Tentare' di importare anche World Backgrounds dai tuoi file.blend, l'addon tenta di recuperare il primo Background dal progetto.blend, questo non è garantito che funzioni sempre, ma nella maggior parte dei casi se appunto il tuo file.blend contiene un Background, questo verrà importato correttamente"
+          "description": "Now you can Try to import World Backgrounds from your .blend files, the addon tries to recover the first Background from the .blend project, this is not guaranteed to work every time, but in most cases if your .blend file contains a Background, it will be imported correctly"
         }
       }
     }
