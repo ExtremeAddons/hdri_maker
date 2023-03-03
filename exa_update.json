@@ -10,6 +10,22 @@
 		"description": ""
 	},
 	"updates": {
+		"3.0.103": {
+			"date": "03-03-2023",
+			"name": "HDRi Maker",
+			"edition": "Studio",
+			"url": false,
+			"urgency": true,
+			"lock_operators": [
+				""
+			],
+			"descriptions": {
+				"1": {
+					"title": "Bugfix - (Choose path) For Mac and Linux",
+					"description": "For some reason, it was no longer possible to select the library paths. I had used the ntpath.normpath module to make sure I normalized the paths. It worked during testing, but now it doesn't work anymore on Mac and Linux. Maybe I missed something. The new version checks the path with os.path.normpath. You should now be able to select the path to the libraries correctly"
+				}
+			}
+		},
 		"3.0.102": {
 			"date": "02-03-2023",
 			"name": "HDRi Maker",
