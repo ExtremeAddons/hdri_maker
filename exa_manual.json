@@ -68,6 +68,9 @@
 		"MAIN_PANEL": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/library_manager_panel.html"
 		} ,
+		"MAKE_ASSET_BROWSER": {
+			"documentation": ""
+		} ,
 		"PREFERENCES_MENU": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/preferences.html"
 		} ,
