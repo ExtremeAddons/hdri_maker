@@ -69,7 +69,8 @@
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/library_manager_panel.html"
 		} ,
 		"MAKE_ASSET_BROWSER": {
-			"documentation": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/installation.html#create-asset-browser",
+			"video tutorials": "https://hdri-maker.readthedocs.io/en/latest/video_tutorials.html#make-asset-browser"
 		} ,
 		"PREFERENCES_MENU": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/preferences.html"
