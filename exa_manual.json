@@ -3,6 +3,7 @@
 	"update_interval": 3600,
 	"info": "The addon connects to this json, and shows an additional button if there is more than one key in the dictionary, the button opens a popup with buttons as many as the keys and if there are urls in the keys",
 	"manual_version": 2,
+	"docs_homepage": "https://hdri-maker.readthedocs.io/en/latest/index.html",
 	"manual_urls": {
 		"ADDON_UPDATES": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/preferences.html#updates-tab"
@@ -71,6 +72,9 @@
 		"MAKE_ASSET_BROWSER": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/installation.html#create-asset-browser",
 			"video tutorials": "https://hdri-maker.readthedocs.io/en/latest/video_tutorials.html#make-asset-browser"
+		} ,
+		"MISSING_FILES_ASSET_BROWSER_CREATION": {
+			"documentation": ""
 		} ,
 		"PREFERENCES_MENU": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/preferences.html"
