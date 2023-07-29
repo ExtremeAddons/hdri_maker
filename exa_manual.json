@@ -74,7 +74,7 @@
 			"video tutorials": "https://hdri-maker.readthedocs.io/en/latest/video_tutorials.html#make-asset-browser"
 		} ,
 		"MISSING_FILES_ASSET_BROWSER_CREATION": {
-			"documentation": ""
+			"documentation": "https://hdri-maker.readthedocs.io/en/latest/installation.html#missing-files-during-the-asset-browser-creation"
 		} ,
 		"PREFERENCES_MENU": {
 			"documentation": "https://hdri-maker.readthedocs.io/en/latest/preferences.html"
